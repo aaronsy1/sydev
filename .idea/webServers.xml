@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="0492ab47-247f-4e1f-9818-9ffb81c677f3" name="sydev" url="http://localhost/sydev">
+        <fileTransfer mountedRoot="C:\wamp64\www\sydev" accessType="MOUNT" port="0" />
+      </webServer>
+    </option>
+  </component>
+</project>
